@@ -15,3 +15,6 @@
 - Là một tập dữ liệu của một công ty bán lẻ trực tuyến đa quốc gia chứa tất cả các giao dịch diễn ra trong khoảng thời gian từ 01/12/2010 đến 09/12/2011. Công ty chủ yếu bán các loại quà tặng cho các dịp đặc biệt. Nhiều khách hàng của công ty là người bán buôn
 ### 3. Data Description
 ![ds](https://github.com/user-attachments/assets/2b786299-b2ea-4e15-adc3-22fe2f2a85d3)
+### 4. Business Question
+- Phòng Marketing muốn chạy các chiến dịch marketing để tri ân khách hàng đã ủng hộ công ty suốt thời gian qua cũng như khai thác các khách có tiềm năng trở thành khách hàng trung thành vì vậy phòng Marketing cần phần nhóm khách hàng 
+- Giám đốc Marketing đề xuất với team phương án sử dụng mô hình RFM được triển khai bằng Python để có thể xử lý lượng data lớn hiện có của công ty tư đó thực hiện phân tích và đưa ra khuyến nghị 
