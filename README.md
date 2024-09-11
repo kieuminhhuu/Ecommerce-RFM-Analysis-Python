@@ -18,3 +18,11 @@
 ### 4. Business Question
 - Phòng Marketing muốn chạy các chiến dịch marketing để tri ân khách hàng đã ủng hộ công ty suốt thời gian qua cũng như khai thác các khách có tiềm năng trở thành khách hàng trung thành vì vậy phòng Marketing cần phần nhóm khách hàng. Giám đốc Marketing đề xuất với team phương án sử dụng mô hình RFM được triển khai bằng Python để có thể xử lý lượng data lớn hiện có của công ty tư đó thực hiện phân tích và đưa ra khuyến nghị 
 ## II. Data Visualization bằng Python
+![his_f](https://github.com/user-attachments/assets/b51ab355-cecd-47b2-99d0-5cbc462a0bf1)
+![his_m](https://github.com/user-attachments/assets/4b58366b-a2ce-4f33-a347-a52b05dd2b42)
+![his_recency](https://github.com/user-attachments/assets/aae364f6-d2a1-4951-9408-cc5e8d9cca96)
+![revenue](https://github.com/user-attachments/assets/81c771d7-94aa-422e-9fcf-1677def11609)
+![scat_f_m](https://github.com/user-attachments/assets/dd5aeb43-3312-4ab5-9c56-14bc05b63a3b)
+![scat_r_f](https://github.com/user-attachments/assets/7ca6f384-cbfd-4b26-b76b-5de9ac36fb04)
+![scat_r_m](https://github.com/user-attachments/assets/8bc5dc03-8bb9-4a28-80ab-32357b161a6c)
+![treemap](https://github.com/user-attachments/assets/6f41e36f-4a89-4c2a-addb-c857fc5caffc)
