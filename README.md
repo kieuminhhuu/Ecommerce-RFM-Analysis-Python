@@ -14,3 +14,4 @@
 ### 2. Dataset
 - Là một tập dữ liệu của một công ty bán lẻ trực tuyến đa quốc gia chứa tất cả các giao dịch diễn ra trong khoảng thời gian từ 01/12/2010 đến 09/12/2011. Công ty chủ yếu bán các loại quà tặng cho các dịp đặc biệt. Nhiều khách hàng của công ty là người bán buôn
 ### 3. Data Description
+![ds](https://github.com/user-attachments/assets/2b786299-b2ea-4e15-adc3-22fe2f2a85d3)
